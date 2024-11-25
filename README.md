@@ -83,7 +83,7 @@ const Physic = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux" />
 </div>
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iphysicc&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" width="100%" alt="Trophy" />
