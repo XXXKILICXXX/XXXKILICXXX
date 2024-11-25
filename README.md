@@ -1,45 +1,90 @@
-# 🌟 **Merhaba, Ben XXXKILICXXX!** 👨‍💻
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8075FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%AE+Web,+Mobile,+Desktop+developer;" alt="Typing SVG" />
+  </a>
+</div>
 
-## 💻 **Hakkımda**
-Merhaba! Yazılım dünyasına olan tutkumla, birçok farklı teknolojiyi öğrenip projeler üretiyorum. **Frontend** ve **Backend** geliştirme, mobil uygulama tasarımı ve veritabanı yönetimi konularında deneyim sahibiyim. Her zaman yeni teknolojilere açık ve sürekli öğrenme odaklı bir geliştiriciyim.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8075FF&center=true&vCenter=true&random=false&width=600&lines=Loading...+New+Projects...;" alt="Typing SVG" />
+  </a>
+</div>
 
-## **🛠️ Technical Skills**
+<div align="center">
+  <img src="https://profile-counter.glitch.me/iphysicc/count.svg" alt="Visitor Count" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
 
----
+## 👨‍💻 About Me
 
-## **Languages**
-![17325192332442296927199947462733](https://github.com/user-attachments/assets/a0459633-551a-4fba-a2c4-18f473303e12)
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-## **Frameworks**
-![17325192586736749808431190053770](https://github.com/user-attachments/assets/de0a07cd-3b72-48ca-ade5-639c5044e665)
+```javascript
+const Physic = {
+    realName: "Mert",
+    nickname: "Physic",
+    role: "Developer",
+    location: "Digital Universe 🌌",
+    technologies: {
+        frontend: ["React", "Next.js", "HTML", "CSS"],
+        backend: ["Node.js", "Python", "C#"],
+        desktop: ["Electron.js", "Tauri"],
+        mobile: ["Java"],
+    },
+    currentFocus: "Building Web, Mobile, Desktop applications",
+    passions: ["Clean Code", "Problem Solving", "Innovation"],
+    motto: "Code with passion, debug with patience 🚀"
+};
+```
 
-## **Databases**
-![17325192831457739115388429792274](https://github.com/user-attachments/assets/e1c5a310-e433-44ff-8d96-b663e37eaa8f)
+## 🛠️ Technical Skills
 
----
+### Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,cs,java,html,css" />
+</div>
 
-## **💻 Development Environment**
+### Frameworks
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,electron,tauri" />
+</div>
 
----
+### Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</div>
 
-## 📈 **GitHub İstatistiklerim**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+### Tools & Services
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws" />
+</div>
 
----
+## 💻 Development Environment
 
-## 🎯 **Hedeflerim**
-- Daha fazla açık kaynak projeye katkıda bulunmak
-- Yeni teknolojiler ve diller öğrenmek
-- Mobil ve web projelerinde inovatif çözümler geliştirmek
+### IDEs & Editors
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="45" height="45" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" width="45" height="45" alt="Android Studio" />
+      <br>Android Studio
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png" width="45" height="45" alt="Visual Studio" />
+      <br>Visual Studio
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/000000/pycharm.png" width="45" height="45" alt="PyCharm" />
+      <br>PyCharm
+    </td>
+  </tr>
+</table>
 
----
+### Operating Systems
 
-## 📫 **Bana Ulaşın**
-- **LinkedIn**: [LinkedIn Profiliniz](#)
-- **E-Posta**: [E-posta adresiniz](#)
-- **Portfolyo**: [Web Siteniz veya Portfolyo Linkiniz](#)
-
----
-
-> 🌟 *“Her zaman öğren, her zaman kodla, her zaman yarat!”*
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
+</div>
