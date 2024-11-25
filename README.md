@@ -8,9 +8,8 @@ Merhaba! Yazılım dünyasına olan tutkumla, birçok farklı teknolojiyi öğre
 ## 🚀 **Yeteneklerim**
 
 ### 💡 **Programlama Dilleri**
-- **HTML** | **CSS** | **JavaScript**
-- **Python** | **Java** | **C#**
-- **SQL** | **MySQL**
+![17325170218421289945462417593555](https://github.com/user-attachments/assets/e547382c-77cd-48cc-866b-c6ce3a54a65c)
+
 
 ### 🛠 **Araçlar ve Çerçeveler**
 - **Visual Studio Code** | **Visual Studio**
