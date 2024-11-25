@@ -3,20 +3,22 @@
 ## 💻 **Hakkımda**
 Merhaba! Yazılım dünyasına olan tutkumla, birçok farklı teknolojiyi öğrenip projeler üretiyorum. **Frontend** ve **Backend** geliştirme, mobil uygulama tasarımı ve veritabanı yönetimi konularında deneyim sahibiyim. Her zaman yeni teknolojilere açık ve sürekli öğrenme odaklı bir geliştiriciyim.
 
----
-
-## 🛠️ Technical Skills
+## **🛠️ Technical Skills**
 
 ---
 
-## Languages
+## **Languages**
 ![17325192332442296927199947462733](https://github.com/user-attachments/assets/a0459633-551a-4fba-a2c4-18f473303e12)
 
-## Frameworks
+## **Frameworks**
 ![17325192586736749808431190053770](https://github.com/user-attachments/assets/de0a07cd-3b72-48ca-ade5-639c5044e665)
 
-## Databases
+## **Databases**
 ![17325192831457739115388429792274](https://github.com/user-attachments/assets/e1c5a310-e433-44ff-8d96-b663e37eaa8f)
+
+---
+
+## **💻 Development Environment**
 
 ---
 
