@@ -1,16 +1,46 @@
-## Hi there 👋
+# 🌟 **Merhaba, Ben XXXKILICXXX!** 👨‍💻
 
-<!--
-**XXXKILICXXX/XXXKILICXXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 **Hakkımda**
+Merhaba! Yazılım dünyasına olan tutkumla, birçok farklı teknolojiyi öğrenip projeler üretiyorum. **Frontend** ve **Backend** geliştirme, mobil uygulama tasarımı ve veritabanı yönetimi konularında deneyim sahibiyim. Her zaman yeni teknolojilere açık ve sürekli öğrenme odaklı bir geliştiriciyim.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **Yeteneklerim**
+
+### 💡 **Programlama Dilleri**
+- **HTML** | **CSS** | **JavaScript**
+- **Python** | **Java** | **C#**
+- **SQL** | **MySQL**
+
+### 🛠 **Araçlar ve Çerçeveler**
+- **Visual Studio Code** | **Visual Studio**
+- **Android Studio**
+- **Bootstrap** | **TailwindCSS**
+- **Node.js** | **React** | **Django**
+
+### 📱 **Mobil Geliştirme**
+- **Android Uygulama Geliştirme (Java)**
+
+---
+
+## 📈 **GitHub İstatistiklerim**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+---
+
+## 🎯 **Hedeflerim**
+- Daha fazla açık kaynak projeye katkıda bulunmak
+- Yeni teknolojiler ve diller öğrenmek
+- Mobil ve web projelerinde inovatif çözümler geliştirmek
+
+---
+
+## 📫 **Bana Ulaşın**
+- **LinkedIn**: [LinkedIn Profiliniz](#)
+- **E-Posta**: [E-posta adresiniz](#)
+- **Portfolyo**: [Web Siteniz veya Portfolyo Linkiniz](#)
+
+---
+
+> 🌟 *“Her zaman öğren, her zaman kodla, her zaman yarat!”*
