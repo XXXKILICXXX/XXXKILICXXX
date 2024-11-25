@@ -54,11 +54,6 @@ const Physic = {
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 </div>
 
-### Tools & Services
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws" />
-</div>
-
 ## 💻 Development Environment
 
 ### IDEs & Editors
