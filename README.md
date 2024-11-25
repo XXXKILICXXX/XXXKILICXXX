@@ -88,3 +88,40 @@ const Physic = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux" />
 </div>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iphysicc&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" width="100%" alt="Trophy" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iphysicc&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iphysicc&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iphysicc&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" />
+</div>
+
+## 🎯 Featured Projects
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="300">
+</div>
+
+<div align="center">
+  <a href="https://github.com/iphysicc/Discord-Bot-Creator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iphysicc&repo=Discord-Bot-Creator&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/iphysicc/TheG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iphysicc&repo=TheG&theme=radical&hide_border=true" />
+  </a>
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://discord.gg/fwey6Gjkwe">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
