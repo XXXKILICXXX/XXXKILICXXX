@@ -12,10 +12,28 @@ Merhaba! Yazılım dünyasına olan tutkumla, birçok farklı teknolojiyi öğre
 
 
 ### 🛠 **Araçlar ve Çerçeveler**
-- **Visual Studio Code** | **Visual Studio**
-- **Android Studio**
-- **Bootstrap** | **TailwindCSS**
-- **Node.js** | **React** | **Django**
+## 🔧 IDEs & Editors
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" alt="VS Code" />
+      <br><b>VS Code</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" width="48" height="48" alt="Android Studio" />
+      <br><b>Android Studio</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" width="48" height="48" alt="Visual Studio" />
+      <br><b>Visual Studio</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/pycharm.png" width="48" height="48" alt="PyCharm" />
+      <br><b>PyCharm</b>
+    </td>
+  </tr>
+</table>
 
 ### 📱 **Mobil Geliştirme**
 - **Android Uygulama Geliştirme (Java)**
