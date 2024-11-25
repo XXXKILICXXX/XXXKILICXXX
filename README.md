@@ -11,13 +11,13 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/iphysicc/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/XXXKILICXXX/count.svg" alt="Visitor Count" />
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<img align="right" src="https://glitch.com/@XXXKILICXXX/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 ```javascript
 const Physic = {
@@ -87,16 +87,16 @@ const Physic = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iphysicc&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=XXXKILICXXX&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" width="100%" alt="Trophy" />
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iphysicc&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iphysicc&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=XXXKILICXXX&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iphysicc&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXXKILICXXX&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" />
 </div>
 
 ## 🎯 Featured Projects
@@ -106,11 +106,11 @@ const Physic = {
 </div>
 
 <div align="center">
-  <a href="https://github.com/iphysicc/Discord-Bot-Creator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iphysicc&repo=Discord-Bot-Creator&theme=radical&hide_border=true" />
+  <a href="https://github.com/XXXKILICXXX/Discord-Bot-Creator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XXXKILICXXX&repo=Discord-Bot-Creator&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/iphysicc/TheG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iphysicc&repo=TheG&theme=radical&hide_border=true" />
+  <a href="https://github.com/XXXKILICXXX/TheG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XXXKILICXXrepo=TheG&theme=radical&hide_border=true" />
   </a>
 </div>
 
