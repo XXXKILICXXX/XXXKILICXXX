@@ -5,44 +5,14 @@ Merhaba! Yazılım dünyasına olan tutkumla, birçok farklı teknolojiyi öğre
 
 ---
 
-## 🚀 **Data Bases**
-![17325184783968192530807136968430](https://github.com/user-attachments/assets/87fd00d8-446f-44d0-a7e5-6b1c3ea584f0)
+Languages
 
+Frameworks
 
+Databases
 
-### 💡 **Programlama Dilleri**
-![17325170218421289945462417593555](https://github.com/user-attachments/assets/e547382c-77cd-48cc-866b-c6ce3a54a65c)
+Tools & Services
 
-
-### 🛠 **Araçlar ve Çerçeveler**
-![17325184783968192530807136968430](https://github.com/user-attachments/assets/740c00ce-97a7-4de8-83e6-7327bd604d7e)
-
-
-## 🔧 IDEs & Editors
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" alt="VS Code" />
-      <br><b>VS Code</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" width="48" height="48" alt="Android Studio" />
-      <br><b>Android Studio</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" width="48" height="48" alt="Visual Studio" />
-      <br><b>Visual Studio</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/pycharm.png" width="48" height="48" alt="PyCharm" />
-      <br><b>PyCharm</b>
-    </td>
-  </tr>
-</table>
-
-### 📱 **Mobil Geliştirme**
-- **Android Uygulama Geliştirme (Java)**
 
 ---
 
