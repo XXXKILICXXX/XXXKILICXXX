@@ -21,8 +21,8 @@
 
 ```javascript
 const Physic = {
-    realName: "Emir",
-    nickname: "XXXKILICXXX",
+    realName: "Mert",
+    nickname: "Physic",
     role: "Developer",
     location: "Digital Universe 🌌",
     technologies: {
