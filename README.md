@@ -5,13 +5,19 @@ Merhaba! Yazılım dünyasına olan tutkumla, birçok farklı teknolojiyi öğre
 
 ---
 
-## 🚀 **Yeteneklerim**
+## 🚀 **Data Bases**
+![17325184783968192530807136968430](https://github.com/user-attachments/assets/87fd00d8-446f-44d0-a7e5-6b1c3ea584f0)
+
+
 
 ### 💡 **Programlama Dilleri**
 ![17325170218421289945462417593555](https://github.com/user-attachments/assets/e547382c-77cd-48cc-866b-c6ce3a54a65c)
 
 
 ### 🛠 **Araçlar ve Çerçeveler**
+![17325184783968192530807136968430](https://github.com/user-attachments/assets/740c00ce-97a7-4de8-83e6-7327bd604d7e)
+
+
 ## 🔧 IDEs & Editors
 
 <table>
