@@ -83,6 +83,7 @@ const Physic = {
 <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux" />
 </div>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
