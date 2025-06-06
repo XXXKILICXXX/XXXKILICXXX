@@ -99,21 +99,6 @@ const XXXKILICXXX = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXXKILICXXX&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" />
 </div>
 
-## 🎯 Featured Projects
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="300">
-</div>
-
-<div align="center">
-  <a href="https://github.com/iphysicc/Discord-Bot-Creator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iphysicc&repo=Discord-Bot-Creator&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/iphysicc/TheG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iphysicc&repo=TheG&theme=radical&hide_border=true" />
-  </a>
-</div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
